@@ -9,7 +9,7 @@ Based on https://www.learnstorybook.com
 - [x] Get started
 - [x] Simple component
 - [x] Composite component
-- [ ] Data
+- [x] Data
 - [ ] Screens
 - [ ] Testing
 - [ ] Addons
