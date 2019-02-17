@@ -10,7 +10,7 @@ Based on https://www.learnstorybook.com
 - [x] Simple component
 - [x] Composite component
 - [x] Data
-- [ ] Screens
+- [x] Screens
 - [ ] Testing
 - [ ] Addons
 - [ ] Deploy
