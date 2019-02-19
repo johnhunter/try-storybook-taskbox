@@ -14,7 +14,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "env-cmd ./.env chromatic test  --do-not-start"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,7 +34,9 @@
     "@storybook/addons": "^4.1.11",
     "@storybook/react": "^4.1.11",
     "babel-loader": "^8.0.5",
+    "env-cmd": "^8.0.2",
     "react-test-renderer": "^16.8.2",
-    "require-context.macro": "^1.0.4"
+    "require-context.macro": "^1.0.4",
+    "storybook-chromatic": "^1.2.6"
   }
 }

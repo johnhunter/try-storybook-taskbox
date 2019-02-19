@@ -11,7 +11,7 @@ Based on https://www.learnstorybook.com
 - [x] [Composite component](https://www.learnstorybook.com/react/en/composite-component/)
 - [x] [Data](https://www.learnstorybook.com/react/en/data/)
 - [x] [Screens](https://www.learnstorybook.com/react/en/screen/)
-- [ ] [Testing](https://www.learnstorybook.com/react/en/test/)
+- [x] [Testing](https://www.learnstorybook.com/react/en/test/)
 - [ ] [Addons](https://www.learnstorybook.com/react/en/addons/)
 - [ ] [Deploy](https://www.learnstorybook.com/react/en/deploy/)
 - [ ] [Conclusion](https://www.learnstorybook.com/react/en/conclusion/)
