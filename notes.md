@@ -4,6 +4,8 @@ Familiarise and establish best-practice for integrating, components, stories and
 
 Based on https://www.learnstorybook.com
 
+Online service https://www.chromaticqa.com/start
+
 ## Sections completed:
 
 - [x] [Get started](https://www.learnstorybook.com/react/en/get-started/)
@@ -13,6 +15,6 @@ Based on https://www.learnstorybook.com
 - [x] [Screens](https://www.learnstorybook.com/react/en/screen/)
 - [x] [Testing](https://www.learnstorybook.com/react/en/test/)
 - [x] [Addons](https://www.learnstorybook.com/react/en/addons/)
-- [ ] [Deploy](https://www.learnstorybook.com/react/en/deploy/)
-- [ ] [Conclusion](https://www.learnstorybook.com/react/en/conclusion/)
-- [ ] [Contribute](https://www.learnstorybook.com/react/en/contribute/)
+- [x] [Deploy](https://www.learnstorybook.com/react/en/deploy/)
+- [x] [Conclusion](https://www.learnstorybook.com/react/en/conclusion/)
+- [x] [Contribute](https://www.learnstorybook.com/react/en/contribute/)
