@@ -25,6 +25,7 @@ function Task(props) {
           value={title}
           readOnly={true}
           placeholder="Input title"
+          style={{ 'text-overflow': 'ellipsis' }}
         />
       </div>
       <div className="actions" onClick={event => event.stopPropagation()}>

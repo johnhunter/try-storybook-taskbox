@@ -12,7 +12,7 @@ Based on https://www.learnstorybook.com
 - [x] [Data](https://www.learnstorybook.com/react/en/data/)
 - [x] [Screens](https://www.learnstorybook.com/react/en/screen/)
 - [x] [Testing](https://www.learnstorybook.com/react/en/test/)
-- [ ] [Addons](https://www.learnstorybook.com/react/en/addons/)
+- [x] [Addons](https://www.learnstorybook.com/react/en/addons/)
 - [ ] [Deploy](https://www.learnstorybook.com/react/en/deploy/)
 - [ ] [Conclusion](https://www.learnstorybook.com/react/en/conclusion/)
 - [ ] [Contribute](https://www.learnstorybook.com/react/en/contribute/)
